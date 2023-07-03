@@ -1,0 +1,65 @@
+    1  add origin https://github.com/AkankshaAnil/HelloWorldProject.git
+    3  git init
+    5  git remote add origin https://github.com/AkankshaAnil/HelloWorldProject.git
+    6  git remote -v
+    7  git brance -M main
+    8  git branch -M main
+    9  git pull origin main
+   11  git add .
+   12  git status 
+   13  git commit -m "HelloWorldProject"
+   14  git config --global user.email akankshakodgirwar07@gmail.com
+   15  git config --global user.name AkankshaAnil
+   16  git commit -m "HelloWorldProject"
+   17  git push origin main
+   19  git commit -m "HelloWorldProject"
+   20  git config --global user.email akankshakodgirwar07@gmail.com
+   21  git congig --global user.name AkankshaAnil
+   22  git config --global user.name AkankshaAnil
+   23  git commit -m "HelloWorldProject"
+   24  git push origin main
+   25  history |grep git>gitcommands.txt
+   27  nano gitcommand.txt
+   28  nano gitcommands.txt
+   30  git status
+   31  git init
+   33  git remote add origin https://github.com/AkankshaAnil/RectangleDetails.git
+   34  git remote -v
+   35  git branch -
+   36  git branch -M main
+   37  git pull origin main
+   39  git add .
+   40  git status
+   41  git commit -m "RectangleApplication"
+   42  git push origin main
+   43  git add .
+   44  git commit -m "[AkankshaAnil] modified operation.cs and adding addition
+   46  git status
+   47  git add . 
+   48  git commit -m "[AkankshaAnil] modified operation.cs and adding some addition
+   49  git commit -m "[AkankshaAnil]" modified operation.cs and adding some addition
+   50  git commit -m "[AkankshaAnil] modified operation.cs and adding some addition"
+   51  git push origin main
+   53  git init
+   55  git remote add origin https://github.com/AkankshaAnil/ArithmaticEquations.git
+   56  git remote -v
+   57  git branch -M main
+   58  git pull origin main
+   60  git add .
+   61  git status
+   62  git commit -m "[AkankshaAnil] ArithmaticEquations"
+   63  git push origin main
+   64  git checkout -b EmployeeAttendenceUC1
+   65  git add .
+   66  git commit -m "[AkankshaAnil] Creating New Branch"
+   67  git push origin EmployeeAttendenceUC1
+   68  git pull origin main
+   69  git merge EmployeeAttendenceUC1
+   70  git push origin main
+   71  git checkout -b EmployeeAttendenceUC2
+   72  git add .
+   73  git commit -m "[AkankshaAnil] creating another Branch"
+   74  git push origin main
+   75  git merge EmployeeAttendenceUC2
+   76  history | grep git>gitCommands.txt
+   77  history | grep git>gitcommands.txt
